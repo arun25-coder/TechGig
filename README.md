@@ -1,4 +1,4 @@
-# tech-gig Practise Problem Questions
+# TechGig Practise Problem Questions
 
 Pattern-1 : Numerical Rectangle
 You need to take an integer input and then draw the pattern according to it. Say for example if you enter 5 then, the pattern should be like this-
@@ -9,7 +9,7 @@ You need to take an integer input and then draw the pattern according to it. Say
 5 5 5 5 5
             
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-30 Days Challenge Problems:
+# 30 Days Challenge Problems
 
 Day 1 - Hello World
 
