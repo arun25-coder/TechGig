@@ -9,8 +9,8 @@ You need to take an integer input and then draw the pattern according to it. Say
 5 5 5 5 5
             
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-                                                              -- 30 Days Challenge Problems --
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+30 Days Challenge Problems:
+
 Day 1 - Hello World
 
 Day 2 - Exploring Data Types
@@ -71,12 +71,12 @@ You will be getting a binary number as an input and you need to convert it into 
 
 Day 20 - Square making
 You need to print the following pattern
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
 
-* * * * *
-* * * * *
-* * * * *
-* * * * *
-* * * * *
 Day 21 - Multiplication between odd and even
 For this challenge, you need to take number of elements as input on one line and array elements as an input on another line. You need to find the numbers that are odd, add them. find the numbers that are even add them and then multiply the two values that you get after addition of even numbers and that of addition of odd numbers.
 
